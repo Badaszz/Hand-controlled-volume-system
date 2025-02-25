@@ -27,6 +27,7 @@ This project uses **OpenCV** and **MediaPipe** to track your hand and measure th
   pip install opencv-python mediapipe pycaw numpy
 
 5. **run the script**
+   python gest_volume_control.py
 
 
 📌 Gesture Guide:
